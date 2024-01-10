@@ -1,9 +1,9 @@
 import React from 'react'
 
-const sujith_website = () => {
+const App = () => {
   return (
-    <h1> Hello World</h1>
+    <h1 className="btn btn-success"> Hello World</h1>
   )
 }
 
-export default sujith_website
+export default App
